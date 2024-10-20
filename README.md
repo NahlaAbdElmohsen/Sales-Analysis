@@ -3,6 +3,7 @@ This is a SQL project Concered about Analysing Sales Data from AdventureWorks 20
 
 # Introduction
 This project is About two parts:
+
 -**First**: to answering business questions About Sales data
 
 -**Second**: answers an important question:**Why Sales in 2014 Lower than Sales in 2013?** and Extract possible insights from it.
